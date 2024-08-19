@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rabbiya-tabassum.
-- 👀 I’m interested in Penetration testing.
+- 👀 I’m interested in Penetration testing and red teaming.
 - 🌱 I’m currently learning ethical hacking.
 - 💞️ I’m looking to collaborate on cyber security related projects.
 - 📫 How to reach me ...>https://www.linkedin.com/in/rabbiya-tabassum/
